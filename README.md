@@ -4,6 +4,8 @@ Bem-vindo ao repositório da disciplina **Laboratório de Programação** do cur
 
 ## 📌 Sobre a Disciplina
 Esta disciplina tem como objetivo consolidar os conceitos fundamentais de programação, abordando princípios de desenvolvimento, lógica e boas práticas de codificação. Os alunos vão explorar linguagens de programação, estruturas de dados, testes e depuração de software.
+[Material de apoio](https://drive.google.com/drive/folders/1FyMHmR8-VbQbgHoTZVYU-ycmGz_iGgvP?usp=drive_link)
+[Atividades](https://drive.google.com/drive/folders/1RF2Z7kB-OdPFvq8LB9SnK-IEP8Bxrwrh?usp=drive_link)
 
 ## 📁 Estrutura do Repositório
 O repositório está organizado da seguinte forma:
