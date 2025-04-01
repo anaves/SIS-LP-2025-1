@@ -11,6 +11,8 @@ r = p and q
 print(f"p E q: {r}")
 
 if p:
-    print(f"{numero} eh maior que zero")
+    print(f"{numero} eh MAIOR que zero")
+else:
+    print(f"{numero} eh MENOR ou IGUAL a zero")
 
 print("ok")
