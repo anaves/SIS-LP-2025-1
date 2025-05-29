@@ -1,7 +1,7 @@
 """
 Escrever citacao bibliografia
-ENTRADA: Tulio Queiroz Fiuza
-SAIDA: FIUZA, T. Q.
+ENTRADA: Joselito Ferreira Oliveira
+SAIDA: OLIVEIRA, J. F.
 """
 autor = input("ENTRADA: ")
 # processamento
